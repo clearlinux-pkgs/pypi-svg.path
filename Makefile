@@ -1,5 +1,5 @@
 PKG_NAME := svg.path
-URL = https://files.pythonhosted.org/packages/5a/f9/3c7b4d6f4ea50c83316c6eb1cf24cb266517bd7ee213d25d6d563d5547d9/svg.path-4.0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/63/f9/56781c02bb69f96f0af1644aaabf065bea6cb0e67ffe2b3ca100847f3f82/svg.path-4.0.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
