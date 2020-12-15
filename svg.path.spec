@@ -4,7 +4,7 @@
 #
 Name     : svg.path
 Version  : 4.0.2
-Release  : 15
+Release  : 16
 URL      : https://files.pythonhosted.org/packages/63/f9/56781c02bb69f96f0af1644aaabf065bea6cb0e67ffe2b3ca100847f3f82/svg.path-4.0.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/63/f9/56781c02bb69f96f0af1644aaabf065bea6cb0e67ffe2b3ca100847f3f82/svg.path-4.0.2.tar.gz
 Summary  : SVG path objects and parser
