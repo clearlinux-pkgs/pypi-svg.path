@@ -4,7 +4,7 @@
 #
 Name     : svg.path
 Version  : 4.1
-Release  : 26
+Release  : 27
 URL      : https://files.pythonhosted.org/packages/2e/62/b13cfccfe2de368169d1f0a13ec205a670122fa75e6be9de66cebaff690c/svg.path-4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2e/62/b13cfccfe2de368169d1f0a13ec205a670122fa75e6be9de66cebaff690c/svg.path-4.1.tar.gz
 Summary  : SVG path objects and parser
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1613517008
+export SOURCE_DATE_EPOCH=1641425021
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
