@@ -1,5 +1,5 @@
 PKG_NAME := pypi-svg.path
-URL = https://files.pythonhosted.org/packages/01/56/32f5483faf385e8c3b382159af10ee08414c7f1be1b6da96a1821e7cc431/svg.path-6.2.tar.gz
+URL = https://files.pythonhosted.org/packages/33/a0/4983cdedf62c3a1dd42b698813312fc51dd159983333fce9ec4189cd83a9/svg.path-6.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
