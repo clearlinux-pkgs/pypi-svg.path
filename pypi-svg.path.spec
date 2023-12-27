@@ -5,7 +5,7 @@
 #
 Name     : pypi-svg.path
 Version  : 6.3
-Release  : 43
+Release  : 44
 URL      : https://files.pythonhosted.org/packages/33/a0/4983cdedf62c3a1dd42b698813312fc51dd159983333fce9ec4189cd83a9/svg.path-6.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/a0/4983cdedf62c3a1dd42b698813312fc51dd159983333fce9ec4189cd83a9/svg.path-6.3.tar.gz
 Summary  : SVG path objects and parser
